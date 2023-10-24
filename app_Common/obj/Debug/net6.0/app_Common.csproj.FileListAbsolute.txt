@@ -1,0 +1,12 @@
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Common\bin\Debug\net6.0\app_Common.deps.json
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Common\bin\Debug\net6.0\app_Common.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Common\bin\Debug\net6.0\app_Common.pdb
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Common\obj\Debug\net6.0\app_Common.csproj.AssemblyReference.cache
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Common\obj\Debug\net6.0\app_Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Common\obj\Debug\net6.0\app_Common.AssemblyInfoInputs.cache
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Common\obj\Debug\net6.0\app_Common.AssemblyInfo.cs
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Common\obj\Debug\net6.0\app_Common.csproj.CoreCompileInputs.cache
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Common\obj\Debug\net6.0\app_Common.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Common\obj\Debug\net6.0\refint\app_Common.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Common\obj\Debug\net6.0\app_Common.pdb
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Common\obj\Debug\net6.0\ref\app_Common.dll

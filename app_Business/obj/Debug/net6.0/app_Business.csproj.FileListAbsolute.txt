@@ -1,0 +1,12 @@
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\bin\Debug\net6.0\app_Business.deps.json
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\bin\Debug\net6.0\app_Business.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\bin\Debug\net6.0\app_Business.pdb
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\obj\Debug\net6.0\app_Business.csproj.AssemblyReference.cache
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\obj\Debug\net6.0\app_Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\obj\Debug\net6.0\app_Business.AssemblyInfoInputs.cache
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\obj\Debug\net6.0\app_Business.AssemblyInfo.cs
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\obj\Debug\net6.0\app_Business.csproj.CoreCompileInputs.cache
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\obj\Debug\net6.0\app_Business.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\obj\Debug\net6.0\refint\app_Business.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\obj\Debug\net6.0\app_Business.pdb
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\obj\Debug\net6.0\ref\app_Business.dll

@@ -1,0 +1,14 @@
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_DataAccess\bin\Debug\net6.0\app_DataAccess.deps.json
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_DataAccess\bin\Debug\net6.0\app_DataAccess.runtimeconfig.json
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_DataAccess\bin\Debug\net6.0\app_DataAccess.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_DataAccess\bin\Debug\net6.0\app_DataAccess.pdb
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_DataAccess\obj\Debug\net6.0\app_DataAccess.csproj.AssemblyReference.cache
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_DataAccess\obj\Debug\net6.0\app_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_DataAccess\obj\Debug\net6.0\app_DataAccess.AssemblyInfoInputs.cache
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_DataAccess\obj\Debug\net6.0\app_DataAccess.AssemblyInfo.cs
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_DataAccess\obj\Debug\net6.0\app_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_DataAccess\obj\Debug\net6.0\app_DataAccess.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_DataAccess\obj\Debug\net6.0\refint\app_DataAccess.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_DataAccess\obj\Debug\net6.0\app_DataAccess.pdb
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_DataAccess\obj\Debug\net6.0\app_DataAccess.genruntimeconfig.cache
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_DataAccess\obj\Debug\net6.0\ref\app_DataAccess.dll
