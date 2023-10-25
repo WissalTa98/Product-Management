@@ -10,3 +10,8 @@ C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\obj\
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\obj\Debug\net6.0\refint\app_Business.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\obj\Debug\net6.0\app_Business.pdb
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\obj\Debug\net6.0\ref\app_Business.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\bin\Debug\net6.0\app_DataAccess.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\bin\Debug\net6.0\app_Models.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\bin\Debug\net6.0\app_DataAccess.pdb
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\bin\Debug\net6.0\app_Models.pdb
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Business\obj\Debug\net6.0\app_Business.csproj.CopyComplete
