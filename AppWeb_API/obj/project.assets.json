@@ -1085,6 +1085,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "AutoMapper": "12.0.1",
+          "app_Common": "1.0.0",
           "app_DataAccess": "1.0.0",
           "app_Models": "1.0.0"
         },
@@ -1093,6 +1094,16 @@
         },
         "runtime": {
           "bin/placeholder/app_Business.dll": {}
+        }
+      },
+      "app_Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/app_Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/app_Common.dll": {}
         }
       },
       "app_DataAccess/1.0.0": {
@@ -3141,6 +3152,11 @@
       "type": "project",
       "path": "../app_Business/app_Business.csproj",
       "msbuildProject": "../app_Business/app_Business.csproj"
+    },
+    "app_Common/1.0.0": {
+      "type": "project",
+      "path": "../app_Common/app_Common.csproj",
+      "msbuildProject": "../app_Common/app_Common.csproj"
     },
     "app_DataAccess/1.0.0": {
       "type": "project",

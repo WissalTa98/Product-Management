@@ -1,4 +1,5 @@
 ﻿using app_DataAccess;
+using app_DataAccess.ViewModel;
 using app_Models;
 using AutoMapper;
 using System;
@@ -16,6 +17,9 @@ namespace app_Business.Mapper
             CreateMap<Category, CategoryDTO>().ReverseMap();
 			CreateMap<Product, ProductDTO>().ReverseMap();
 			CreateMap<ProductPrice, ProductPriceDTO>().ReverseMap();
-		}
+            CreateMap<OrderHeaderDTO, OrderHeader>().ReverseMap();
+            CreateMap<OrderDetail, OrderDetailDTO>().ReverseMap();
+            CreateMap<OrderDTO, Order>().ReverseMap();
+        }
     }
 }

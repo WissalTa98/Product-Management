@@ -980,6 +980,16 @@
           }
         }
       },
+      "app_Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/app_Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/app_Common.dll": {}
+        }
+      },
       "app_DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2670,6 +2680,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "app_Common/1.0.0": {
+      "type": "project",
+      "path": "../app_Common/app_Common.csproj",
+      "msbuildProject": "../app_Common/app_Common.csproj"
+    },
     "app_DataAccess/1.0.0": {
       "type": "project",
       "path": "../app_DataAccess/app_DataAccess.csproj",
@@ -2684,6 +2699,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "AutoMapper >= 12.0.1",
+      "app_Common >= 1.0.0",
       "app_DataAccess >= 1.0.0",
       "app_Models >= 1.0.0"
     ]
@@ -2721,6 +2737,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Common\\app_Common.csproj": {
+              "projectPath": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Common\\app_Common.csproj"
+            },
             "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_DataAccess\\app_DataAccess.csproj": {
               "projectPath": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_DataAccess\\app_DataAccess.csproj"
             },
