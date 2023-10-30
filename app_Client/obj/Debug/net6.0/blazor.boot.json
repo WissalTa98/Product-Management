@@ -1,6 +1,8 @@
 {
   "cacheBootResources": true,
-  "config": [ ],
+  "config": [
+    "appsettings.json"
+  ],
   "debugBuild": true,
   "entryAssembly": "app_Client",
   "icuDataMode": 0,
@@ -29,6 +31,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-jOmoWSfsdQexH\/6QCA56gR1RMEqeix2iDDUBWbpAOQI=",
       "Microsoft.JSInterop.dll": "sha256-C0QQ5veDmrqaB60T1CIoNyP6ZiX8TvT9y8eeS\/Q0NWY=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-PU\/apadIgs6vLXB2AjOsBltwPdH60pK05IfA4O8vOZM=",
+      "Newtonsoft.Json.dll": "sha256-IsZJ91\/OW+fHzNqIgEc7Y072ns8z9dGritiSyvR9Wgc=",
       "System.IO.Pipelines.dll": "sha256-6+E55JXedimdw1c1bDtVg4K7XuWjVWVTifH8QpfzXSY=",
       "Microsoft.CSharp.dll": "sha256-rP89uFQJ0BDoy22bKa2Xa37m\/rRVEUlORW82XMV6QkA=",
       "Microsoft.VisualBasic.Core.dll": "sha256-G81hPVAFXwb99vepzMDbl\/aG\/f9XiclEXxW9JDxViBU=",
@@ -196,13 +199,15 @@
       "mscorlib.dll": "sha256-y7DhCb2PceYWjnHWsZokJrty551Q9XISH3Z72o6RdwI=",
       "netstandard.dll": "sha256-REs1\/xYvAzuX2k2Y5p\/5IaM3O\/zaiYSW62pOQBGMrrA=",
       "System.Private.CoreLib.dll": "sha256-Bz7VnNtt03SzAvIN30yx1e25P6SfMdLYIaKIy7ASEnw=",
-      "app_Client.dll": "sha256-eLGs1eagBUE73PCsMXa5lV0SX+90glRqgSgoJ1RqKXY="
+      "app_Models.dll": "sha256-6llSAzxh5LN68jtZoLmZ8nhJ\/1bENzLcyN+1+FIfBaY=",
+      "app_Client.dll": "sha256-8257i8IHxM3LDgsq4osAdNo2GWglXUhA39ld5OaP4zA="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "app_Client.pdb": "sha256-eIzrHDe8VNciJcF2IbRlIDBNysdrbqQHzysso3EgWg8="
+      "app_Models.pdb": "sha256-Z+L0WWVSZMS2Qh+HDyMsjVUZmWy+A87A28RsAJRLmGY=",
+      "app_Client.pdb": "sha256-B1BnoJfyj4fXGihR81emw8HsnoETJojzXBjvsiDA3xg="
     },
     "runtime": {
       "dotnet.6.0.15.i7h7jnwhhw.js": "sha256-fb2wBZaRp096nChMG9nDNEcW0kW1whA\/kfQNyH+5QpQ=",

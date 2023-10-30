@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yLjalMtMyhl38oVGo1Q1+mAMUErfKUfqVmPRlO4g3w6yfYf9nGsqygI9NuUDUsPEoBseJATWoacioFNhZAKWTA==",
+  "dgSpecHash": "V6rYoQiC2p/XkDtZZW3ov0Gj3Sov5PO09PJOBgkIcjTS325sJLUDOoL4RcyVgtzoohubo/VAsfIe9LNXa+Raiw==",
   "success": true,
   "projectFilePath": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\app_Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\MW638ST\\.nuget\\packages\\blazored.localstorage\\4.4.0\\blazored.localstorage.4.4.0.nupkg.sha512",
     "C:\\Users\\MW638ST\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.23\\microsoft.aspnetcore.authorization.6.0.23.nupkg.sha512",
     "C:\\Users\\MW638ST\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.23\\microsoft.aspnetcore.components.6.0.23.nupkg.sha512",
     "C:\\Users\\MW638ST\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.23\\microsoft.aspnetcore.components.analyzers.6.0.23.nupkg.sha512",
@@ -28,6 +29,7 @@
     "C:\\Users\\MW638ST\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\MW638ST\\.nuget\\packages\\microsoft.jsinterop\\6.0.23\\microsoft.jsinterop.6.0.23.nupkg.sha512",
     "C:\\Users\\MW638ST\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.23\\microsoft.jsinterop.webassembly.6.0.23.nupkg.sha512",
+    "C:\\Users\\MW638ST\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\MW638ST\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\MW638ST\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\MW638ST\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",

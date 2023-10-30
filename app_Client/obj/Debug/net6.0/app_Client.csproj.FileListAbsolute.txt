@@ -818,3 +818,15 @@ C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\De
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\refint\app_Client.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\app_Client.pdb
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\ref\app_Client.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\app_Models.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\app_Models.pdb
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\app_Models.pdb.gz
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\app_Models.dll.gz
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\app_Models.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\app_Models.pdb
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\DxVH3YoE.gz
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\lKOTzNho.gz
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\+WgMiG03.gz
