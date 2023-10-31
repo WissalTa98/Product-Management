@@ -1,5 +1,7 @@
 ﻿using app_Business.Repository.IRepository;
+using app_Common;
 using app_Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,6 +18,7 @@ namespace AppWeb_API.Controllers
 		}
 
 		[HttpGet]
+		[Authorize(Roles = SD.Role_Customer)]
 		public async Task<IActionResult> GetAll()
 		{
 			return Ok(await _productRepository.GetAll());

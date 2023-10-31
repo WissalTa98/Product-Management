@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jqulQd2xPgkDpC29+Hg0g/yo6w7x/X3NPd+hmgbzYH3i4AFLJOj7K41LuiFXb3ZvnYTJ47l8pjEqhxT4dxzqag==",
+  "dgSpecHash": "HMd9W8jjC9BC/ZS5OLCnuKmGApC+swDG4R2wGJY6xYKikH3xkEHDO/HvtG9HIekRwhnRAth4g/EZn6pJIttxVw==",
   "success": true,
   "projectFilePath": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\AppWeb_API\\AppWeb_API.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\MW638ST\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\MW638ST\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\MW638ST\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\MW638ST\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.24\\microsoft.aspnetcore.authentication.jwtbearer.6.0.24.nupkg.sha512",
     "C:\\Users\\MW638ST\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.23\\microsoft.aspnetcore.cryptography.internal.6.0.23.nupkg.sha512",
     "C:\\Users\\MW638ST\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.23\\microsoft.aspnetcore.cryptography.keyderivation.6.0.23.nupkg.sha512",
     "C:\\Users\\MW638ST\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.23\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.23.nupkg.sha512",
