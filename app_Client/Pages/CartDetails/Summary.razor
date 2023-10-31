@@ -2,7 +2,8 @@
 @inject IJSRuntime _jsRuntime
 @inject ILocalStorageService _localStorage
 @inject IProductService _productService
-@inject IPaymentService _paymentService
+@*@inject IPaymentService _paymentService
+*@
 @inject IOrderService _orderService
 @using Microsoft.AspNetCore.Authorization
 @using app_Client.ViewModels;
@@ -144,15 +145,15 @@ else
             Order.OrderHeader.OrderTotal += (item.Count * productPrice.Price);
         }
 
-        if (await _localStorage.GetItemAsync<UserDTO>(SD.Local_UserDetails) != null)
-        {
-            var userInfo = await _localStorage.GetItemAsync<UserDTO>(SD.Local_UserDetails);
-            Order.OrderHeader.UserId = userInfo.Id;
-            Order.OrderHeader.Name = userInfo.Name;
-            Order.OrderHeader.Email = userInfo.Email;
-            Order.OrderHeader.PhoneNumber = userInfo.PhoneNumber;
+        //if (await _localStorage.GetItemAsync<UserDTO>(SD.Local_UserDetails) != null)
+        //{
+        //    var userInfo = await _localStorage.GetItemAsync<UserDTO>(SD.Local_UserDetails);
+        //    Order.OrderHeader.UserId = userInfo.Id;
+        //    Order.OrderHeader.Name = userInfo.Name;
+        //    Order.OrderHeader.Email = userInfo.Email;
+        //    Order.OrderHeader.PhoneNumber = userInfo.PhoneNumber;
 
-        }
+        //}
 
         IsProcessing = false;
     }
@@ -163,23 +164,23 @@ else
         try
         {
             IsProcessing = true;
-            var paymentDto = new StripePaymentDTO()
-                {
-                    Order = Order
-                };
+            //var paymentDto = new StripePaymentDTO()
+            //    {
+            //        Order = Order
+            //    };
 
-            var result = await _paymentService.Checkout(paymentDto);
+            //var result = await _paymentService.Checkout(paymentDto);
 
-            var StripeSessionAndPI = result.Data.ToString().Split(';');
+            //var StripeSessionAndPI = result.Data.ToString().Split(';');
 
-            Order.OrderHeader.SessionId = StripeSessionAndPI[0];
-            Order.OrderHeader.PaymentIntentId = StripeSessionAndPI[1];
+            //Order.OrderHeader.SessionId = StripeSessionAndPI[0];
+            //Order.OrderHeader.PaymentIntentId = StripeSessionAndPI[1];
 
-            var orderDTOSaved = await _orderService.Create(paymentDto);
+            ////var orderDTOSaved = await _orderService.Create(paymentDto);
 
-            await _localStorage.SetItemAsync(SD.Local_OrderDetails, orderDTOSaved);
+            ////await _localStorage.SetItemAsync(SD.Local_OrderDetails, orderDTOSaved);
 
-            await _jsRuntime.InvokeVoidAsync("redirectToCheckout", StripeSessionAndPI[0]);
+            //await _jsRuntime.InvokeVoidAsync("redirectToCheckout", StripeSessionAndPI[0]);
         }
         catch (Exception e)
         {

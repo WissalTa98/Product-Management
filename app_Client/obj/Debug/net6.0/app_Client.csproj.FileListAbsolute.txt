@@ -1,7 +1,14 @@
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\fPZ4OYlq.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\app_Client.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\app_Client.pdb
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\app_Common.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\app_Common.pdb
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\app_Models.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\app_Models.pdb
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.15.i7h7jnwhhw.js
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm
@@ -38,6 +45,7 @@ C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\De
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
@@ -204,6 +212,7 @@ C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\De
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\app_Models.pdb.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
@@ -259,6 +268,7 @@ C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\De
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
@@ -303,6 +313,8 @@ C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\De
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\app_Models.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
@@ -355,12 +367,12 @@ C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\De
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
-C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\app_Common.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
@@ -382,6 +394,7 @@ C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\De
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\app_Common.pdb.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
@@ -400,6 +413,7 @@ C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\De
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\app_Client.staticwebassets.runtime.json
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\app_Client.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\app_Client.pdb
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\Blazored.LocalStorage.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
@@ -422,6 +436,7 @@ C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\De
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\Microsoft.JSInterop.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\System.IO.Pipelines.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\Microsoft.CSharp.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\Microsoft.VisualBasic.Core.dll
@@ -596,12 +611,17 @@ C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\De
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\icudt_CJK.dat
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\icudt_EFIGS.dat
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\icudt_no_CJK.dat
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\app_Common.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\app_Models.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\app_Common.pdb
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\app_Models.pdb
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\app_Client.csproj.AssemblyReference.cache
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\app_Client.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\app_Client.AssemblyInfoInputs.cache
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\app_Client.AssemblyInfo.cs
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\app_Client.csproj.CoreCompileInputs.cache
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\app_Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\LH3doo7K.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\Rc6xdoCT.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\FE4GcGwJ.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\k5mZk2pO.gz
@@ -624,6 +644,7 @@ C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\De
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\9U56R1ns.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\b3EFwaOC.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\nIaJNwSD.gz
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\DxVH3YoE.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\BB4wfJBG.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\SxXyaGAy.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\4uxHFxTG.gz
@@ -721,7 +742,6 @@ C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\De
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\W0mfjiiJ.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\3kG+rHIZ.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\s6fLGAt+.gz
-C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\fPZ4OYlq.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\00OMD4jQ.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\VUyNTsCv.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\4Mzt1SkG.gz
@@ -798,6 +818,10 @@ C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\De
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\e4wOQfX6.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\Bk+OzTpi.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\1XmKf344.gz
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\tUV1FITK.gz
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\lKOTzNho.gz
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\XUr90Bc+.gz
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\+WgMiG03.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\VmNq2rUR.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\hCLJ1p8v.gz
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\bBT3s1Qb.gz
@@ -818,15 +842,3 @@ C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\De
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\refint\app_Client.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\app_Client.pdb
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\ref\app_Client.dll
-C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\app_Models.dll
-C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\app_Models.pdb
-C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll
-C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\app_Models.pdb.gz
-C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
-C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\wwwroot\_framework\app_Models.dll.gz
-C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\app_Models.dll
-C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\bin\Debug\net6.0\app_Models.pdb
-C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\DxVH3YoE.gz
-C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\lKOTzNho.gz
-C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\app_Client\obj\Debug\net6.0\build-gz\+WgMiG03.gz
