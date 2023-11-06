@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HMd9W8jjC9BC/ZS5OLCnuKmGApC+swDG4R2wGJY6xYKikH3xkEHDO/HvtG9HIekRwhnRAth4g/EZn6pJIttxVw==",
+  "dgSpecHash": "aVP6YbEKbJed1BmoLyvn21KtLtYOAXjZY86irlC00yHVwCpw/bXpt8AbdEPdxgGKeo9cuTO7C5Q2ttiux3uZzA==",
   "success": true,
   "projectFilePath": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\AppWeb_API\\AppWeb_API.csproj",
   "expectedPackageFiles": [
@@ -46,6 +46,8 @@
     "C:\\Users\\MW638ST\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\MW638ST\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\MW638ST\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\MW638ST\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\MW638ST\\.nuget\\packages\\stripe.net\\43.1.0\\stripe.net.43.1.0.nupkg.sha512",
     "C:\\Users\\MW638ST\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\MW638ST\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\MW638ST\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

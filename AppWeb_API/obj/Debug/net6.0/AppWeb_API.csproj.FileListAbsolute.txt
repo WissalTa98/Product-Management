@@ -9,6 +9,7 @@ C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\AppWeb_API\bin\De
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\AppWeb_API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\AppWeb_API\bin\Debug\net6.0\Azure.Core.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\AppWeb_API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\AppWeb_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\AppWeb_API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\AppWeb_API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\MW638ST\OneDrive - EY\Desktop\DevMatrix_Authetication\AppWeb_API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

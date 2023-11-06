@@ -9,6 +9,7 @@ using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using Stripe;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -77,12 +78,15 @@ builder.Services.AddAuthentication(opt =>
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 builder.Services.AddCors(o => o.AddPolicy("App", builder =>
 {
     builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
 }));
 
 var app = builder.Build();
+
+StripeConfiguration.ApiKey = builder.Configuration.GetSection("Stripe")["ApiKey"];
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

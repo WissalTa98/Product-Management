@@ -1,7 +1,7 @@
-﻿@using app_Client.ViewModels;
-@using app_Common;
+﻿@using Microsoft.AspNetCore.Components.Authorization;
 @inject ISyncLocalStorageService _localStorage
 @inject ICartService _cartService
+@inject AuthenticationStateProvider AuthenticationStateProvider
 @implements IDisposable
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -29,8 +29,8 @@
                        <li class="nav-item p-0">
                         <NavLink class="nav-link" href="#">
                             <span class="p-2">
-@*                                Hello, @context.User.Identity.Name
-*@                            </span>
+                                Hello, @context.User.Identity.Name
+                            </span>
                         </NavLink>
                     </li>
                     <li class="nav-item p-0">
@@ -77,7 +77,7 @@
     }
 
     private int GetCartCount(){
-        var cart = _localStorage.GetItem<List<ShoppingCart>>(SD.ShoppingCart);
+        var cart = _localStorage.GetItem<List<ViewModels.ShoppingCart>>(app_Common.SD.ShoppingCart);
         return cart==null ? 0 : cart.Count;
     }
 }

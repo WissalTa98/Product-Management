@@ -11,7 +11,7 @@ namespace AppWeb_API.Controllers
     {
         private readonly IOrderRepository _orderRepository;
         //private readonly IEmailSender _emailSender;
-        public OrderController(IOrderRepository orderRepository)
+        public OrderController(IOrderRepository orderRepository, IEmailSender emailSender)
         {
             _orderRepository = orderRepository;
             //_emailSender = emailSender;
@@ -48,14 +48,14 @@ namespace AppWeb_API.Controllers
             return Ok(orderHeader);
         }
 
-        //[HttpPost]
-        //[ActionName("Create")]
-        //public async Task<IActionResult> Create([FromBody] StripePaymentDTO paymentDTO)
-        //{
-        //    paymentDTO.Order.OrderHeader.OrderDate = DateTime.Now;
-        //    var result = await _orderRepository.Create(paymentDTO.Order);
-        //    return Ok(result);
-        //}
+        [HttpPost]
+        [ActionName("Create")]
+        public async Task<IActionResult> Create([FromBody] StripePaymentDTO paymentDTO)
+        {
+            paymentDTO.Order.OrderHeader.OrderDate = DateTime.Now;
+            var result = await _orderRepository.Create(paymentDTO.Order);
+            return Ok(result);
+        }
 
         //[HttpPost]
         //[ActionName("paymentsuccessful")]

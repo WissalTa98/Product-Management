@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yg5bZMSg+roHKyYauuYoK0Q3GXyQYHJ43BEgng8Jf+I=",
+  "Hash": "mICLWqpYq4QdTZXO68E2IMkl8F67ZQjzpU8V+yl4C7s=",
   "Source": "app_Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -303,7 +303,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\MW638ST\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.23\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\MW638ST\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.24\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
+      "Identity": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "SourceId": "app_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\MW638ST\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\6.0.24\\lib\\net6.0\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -320,7 +337,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\MW638ST\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.23\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\MW638ST\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.24\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -388,7 +405,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\MW638ST\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.23\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\MW638ST\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.24\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -3927,6 +3944,23 @@
       "OriginalItemSpec": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.dll"
     },
     {
+      "Identity": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\obj\\Debug\\net6.0\\build-gz\\57pViKrR.gz",
+      "SourceId": "app_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
+    },
+    {
       "Identity": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\obj\\Debug\\net6.0\\build-gz\\5Fi9rRvM.gz",
       "SourceId": "app_Client",
       "SourceType": "Computed",
@@ -4775,23 +4809,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Intrinsics.dll"
-    },
-    {
-      "Identity": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\obj\\Debug\\net6.0\\build-gz\\FE4GcGwJ.gz",
-      "SourceId": "app_Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\obj\\Debug\\net6.0\\build-gz\\FmAApRJq.gz",
@@ -5797,23 +5814,6 @@
       "OriginalItemSpec": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Win32.Registry.dll"
     },
     {
-      "Identity": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\obj\\Debug\\net6.0\\build-gz\\qbs+NE+g.gz",
-      "SourceId": "app_Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
-    },
-    {
       "Identity": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\obj\\Debug\\net6.0\\build-gz\\qdEDTMT9.gz",
       "SourceId": "app_Client",
       "SourceType": "Computed",
@@ -6016,23 +6016,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebSockets.dll"
-    },
-    {
-      "Identity": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\obj\\Debug\\net6.0\\build-gz\\Rc6xdoCT.gz",
-      "SourceId": "app_Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\obj\\Debug\\net6.0\\build-gz\\rLvg4wVz.gz",
@@ -6375,6 +6358,23 @@
       "OriginalItemSpec": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\app_Common.dll"
     },
     {
+      "Identity": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\obj\\Debug\\net6.0\\build-gz\\TwwL2Xup.gz",
+      "SourceId": "app_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
+    },
+    {
       "Identity": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\obj\\Debug\\net6.0\\build-gz\\u5hsIDFe.gz",
       "SourceId": "app_Client",
       "SourceType": "Computed",
@@ -6477,6 +6477,23 @@
       "OriginalItemSpec": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ServiceModel.Web.dll"
     },
     {
+      "Identity": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\obj\\Debug\\net6.0\\build-gz\\uukEj9bi.gz",
+      "SourceId": "app_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll"
+    },
+    {
       "Identity": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\obj\\Debug\\net6.0\\build-gz\\uzA8fsqn.gz",
       "SourceId": "app_Client",
       "SourceType": "Computed",
@@ -6492,6 +6509,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.Specialized.dll"
+    },
+    {
+      "Identity": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\obj\\Debug\\net6.0\\build-gz\\UZONho7f.gz",
+      "SourceId": "app_Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\obj\\Debug\\net6.0\\build-gz\\v3Doq83U.gz",
@@ -7393,6 +7427,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\common.js"
+    },
+    {
+      "Identity": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\wwwroot\\js\\StripePayment.js",
+      "SourceId": "app_Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "js/StripePayment.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\StripePayment.js"
     },
     {
       "Identity": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\wwwroot\\sample-data\\weather.json",

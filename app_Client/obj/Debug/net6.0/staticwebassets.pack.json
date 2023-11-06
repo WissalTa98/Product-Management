@@ -93,6 +93,10 @@
       "PackagePath": "staticwebassets\\index.html"
     },
     {
+      "Id": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\wwwroot\\js\\StripePayment.js",
+      "PackagePath": "staticwebassets\\js\\StripePayment.js"
+    },
+    {
       "Id": "C:\\Users\\MW638ST\\OneDrive - EY\\Desktop\\DevMatrix_Authetication\\app_Client\\wwwroot\\js\\common.js",
       "PackagePath": "staticwebassets\\js\\common.js"
     },

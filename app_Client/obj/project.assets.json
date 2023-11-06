@@ -14,10 +14,10 @@
           "lib/net6.0/Blazored.LocalStorage.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Authorization/6.0.23": {
+      "Microsoft.AspNetCore.Authorization/6.0.24": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Metadata": "6.0.23",
+          "Microsoft.AspNetCore.Metadata": "6.0.24",
           "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
           "Microsoft.Extensions.Options": "6.0.0"
         },
@@ -32,11 +32,11 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components/6.0.23": {
+      "Microsoft.AspNetCore.Components/6.0.24": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Authorization": "6.0.23",
-          "Microsoft.AspNetCore.Components.Analyzers": "6.0.23"
+          "Microsoft.AspNetCore.Authorization": "6.0.24",
+          "Microsoft.AspNetCore.Components.Analyzers": "6.0.24"
         },
         "compile": {
           "lib/net6.0/Microsoft.AspNetCore.Components.dll": {
@@ -49,10 +49,27 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.Analyzers/6.0.23": {
+      "Microsoft.AspNetCore.Components.Analyzers/6.0.24": {
         "type": "package",
         "build": {
           "buildTransitive/netstandard2.0/Microsoft.AspNetCore.Components.Analyzers.targets": {}
+        }
+      },
+      "Microsoft.AspNetCore.Components.Authorization/6.0.24": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Authorization": "6.0.24",
+          "Microsoft.AspNetCore.Components": "6.0.24"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.AspNetCore.Components.Authorization.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Components.Authorization.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.AspNetCore.Components.Forms/6.0.23": {
@@ -120,7 +137,7 @@
           "build/Microsoft.AspNetCore.Components.WebAssembly.DevServer.targets": {}
         }
       },
-      "Microsoft.AspNetCore.Metadata/6.0.23": {
+      "Microsoft.AspNetCore.Metadata/6.0.24": {
         "type": "package",
         "compile": {
           "lib/net6.0/Microsoft.AspNetCore.Metadata.dll": {
@@ -558,10 +575,10 @@
           "lib/net6.0/Blazored.LocalStorage.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Authorization/6.0.23": {
+      "Microsoft.AspNetCore.Authorization/6.0.24": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Metadata": "6.0.23",
+          "Microsoft.AspNetCore.Metadata": "6.0.24",
           "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
           "Microsoft.Extensions.Options": "6.0.0"
         },
@@ -576,11 +593,11 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components/6.0.23": {
+      "Microsoft.AspNetCore.Components/6.0.24": {
         "type": "package",
         "dependencies": {
-          "Microsoft.AspNetCore.Authorization": "6.0.23",
-          "Microsoft.AspNetCore.Components.Analyzers": "6.0.23"
+          "Microsoft.AspNetCore.Authorization": "6.0.24",
+          "Microsoft.AspNetCore.Components.Analyzers": "6.0.24"
         },
         "compile": {
           "lib/net6.0/Microsoft.AspNetCore.Components.dll": {
@@ -593,10 +610,27 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.Analyzers/6.0.23": {
+      "Microsoft.AspNetCore.Components.Analyzers/6.0.24": {
         "type": "package",
         "build": {
           "buildTransitive/netstandard2.0/Microsoft.AspNetCore.Components.Analyzers.targets": {}
+        }
+      },
+      "Microsoft.AspNetCore.Components.Authorization/6.0.24": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Authorization": "6.0.24",
+          "Microsoft.AspNetCore.Components": "6.0.24"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.AspNetCore.Components.Authorization.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Components.Authorization.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.AspNetCore.Components.Forms/6.0.23": {
@@ -664,7 +698,7 @@
           "build/Microsoft.AspNetCore.Components.WebAssembly.DevServer.targets": {}
         }
       },
-      "Microsoft.AspNetCore.Metadata/6.0.23": {
+      "Microsoft.AspNetCore.Metadata/6.0.24": {
         "type": "package",
         "compile": {
           "lib/net6.0/Microsoft.AspNetCore.Metadata.dll": {
@@ -1099,10 +1133,10 @@
         "lib/net7.0/Blazored.LocalStorage.dll"
       ]
     },
-    "Microsoft.AspNetCore.Authorization/6.0.23": {
-      "sha512": "UYIAxf8BOH4x70tJLUSTCMuW1TdVpGjfWUeyQ8CfwP4HPME1hWqog9zxpjXGAVkXLSdQlkyb2YT+VjlOlhTSXw==",
+    "Microsoft.AspNetCore.Authorization/6.0.24": {
+      "sha512": "6wnjTbCPYlfaZ1INOrVzPvpvPXMd11HwyexRCvKUbTTWayQTYhp80YkWSPy9XK+SnKD6HNKzjcAW/eIl1kL7aQ==",
       "type": "package",
-      "path": "microsoft.aspnetcore.authorization/6.0.23",
+      "path": "microsoft.aspnetcore.authorization/6.0.24",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1114,14 +1148,14 @@
         "lib/net6.0/Microsoft.AspNetCore.Authorization.xml",
         "lib/netstandard2.0/Microsoft.AspNetCore.Authorization.dll",
         "lib/netstandard2.0/Microsoft.AspNetCore.Authorization.xml",
-        "microsoft.aspnetcore.authorization.6.0.23.nupkg.sha512",
+        "microsoft.aspnetcore.authorization.6.0.24.nupkg.sha512",
         "microsoft.aspnetcore.authorization.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Components/6.0.23": {
-      "sha512": "iBUvzV4XK1YopKAP2IBN3Ke82fU7ZNluZ0uZDT6Mxo/HQeF6eY/Q4HyWRD1lurtTFj6wopRGGun16NuM5+TS8Q==",
+    "Microsoft.AspNetCore.Components/6.0.24": {
+      "sha512": "ZJyduopEYJ5uFesLudNoY1Rj+rRnZufPvQeHQnPiQUkn/+7X9DHGGQ6eH94lUK6VQVswEKG4xQ78jGuexh+VoA==",
       "type": "package",
-      "path": "microsoft.aspnetcore.components/6.0.23",
+      "path": "microsoft.aspnetcore.components/6.0.24",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1129,14 +1163,14 @@
         "THIRD-PARTY-NOTICES.txt",
         "lib/net6.0/Microsoft.AspNetCore.Components.dll",
         "lib/net6.0/Microsoft.AspNetCore.Components.xml",
-        "microsoft.aspnetcore.components.6.0.23.nupkg.sha512",
+        "microsoft.aspnetcore.components.6.0.24.nupkg.sha512",
         "microsoft.aspnetcore.components.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Components.Analyzers/6.0.23": {
-      "sha512": "3uNB3NbCjmekUDKkBFJPsB2GQzLMRzAJauEy8NvsQ23fBRLG0ffe9IuQS3Vfszs7/Mlm/0bc5Xgi8nP0PsENIA==",
+    "Microsoft.AspNetCore.Components.Analyzers/6.0.24": {
+      "sha512": "I09whA8eCL27Y87vC5wJgDhO1RcsJLnK+9KtVkZ1PkZjnkmkgsyPN/3Qc3n/T0S6GxAlDSTsZi9MJ/TqzOOQ+w==",
       "type": "package",
-      "path": "microsoft.aspnetcore.components.analyzers/6.0.23",
+      "path": "microsoft.aspnetcore.components.analyzers/6.0.24",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1145,8 +1179,23 @@
         "analyzers/dotnet/cs/Microsoft.AspNetCore.Components.Analyzers.dll",
         "build/netstandard2.0/Microsoft.AspNetCore.Components.Analyzers.targets",
         "buildTransitive/netstandard2.0/Microsoft.AspNetCore.Components.Analyzers.targets",
-        "microsoft.aspnetcore.components.analyzers.6.0.23.nupkg.sha512",
+        "microsoft.aspnetcore.components.analyzers.6.0.24.nupkg.sha512",
         "microsoft.aspnetcore.components.analyzers.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Components.Authorization/6.0.24": {
+      "sha512": "eRsel+AlsJkJBBlIKOYJzq8SPNSsMFyX+cVQwdxCHQxPyx0xLnuyIW58m12vV7EZbZLyTO8OOIAV33Bc50OAcQ==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.components.authorization/6.0.24",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.txt",
+        "lib/net6.0/Microsoft.AspNetCore.Components.Authorization.dll",
+        "lib/net6.0/Microsoft.AspNetCore.Components.Authorization.xml",
+        "microsoft.aspnetcore.components.authorization.6.0.24.nupkg.sha512",
+        "microsoft.aspnetcore.components.authorization.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Components.Forms/6.0.23": {
@@ -1318,10 +1367,10 @@
         "tools/x86/aspnetcorev2_inprocess.dll"
       ]
     },
-    "Microsoft.AspNetCore.Metadata/6.0.23": {
-      "sha512": "WOGeSiOdHuBZozNrp31cZuT5juijxGQLa5iELrzCeEhuwoWl/+U5TzrsAjXvIakMOuMHxTCBEUI2xW+Qm48OFg==",
+    "Microsoft.AspNetCore.Metadata/6.0.24": {
+      "sha512": "4qEDX1v1dQW03zffD43r0fbyU4mKeyppXd8k0qLV4yEnZ3WE34T2UbluP1aN3otLoMfU1QZNY5sDNIlsboANdw==",
       "type": "package",
-      "path": "microsoft.aspnetcore.metadata/6.0.23",
+      "path": "microsoft.aspnetcore.metadata/6.0.24",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1333,7 +1382,7 @@
         "lib/net6.0/Microsoft.AspNetCore.Metadata.xml",
         "lib/netstandard2.0/Microsoft.AspNetCore.Metadata.dll",
         "lib/netstandard2.0/Microsoft.AspNetCore.Metadata.xml",
-        "microsoft.aspnetcore.metadata.6.0.23.nupkg.sha512",
+        "microsoft.aspnetcore.metadata.6.0.24.nupkg.sha512",
         "microsoft.aspnetcore.metadata.nuspec"
       ]
     },
@@ -1902,6 +1951,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Blazored.LocalStorage >= 4.4.0",
+      "Microsoft.AspNetCore.Components.Authorization >= 6.0.24",
       "Microsoft.AspNetCore.Components.WebAssembly >= 6.0.23",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.23",
       "Newtonsoft.Json >= 13.0.3",
@@ -1964,6 +2014,10 @@
           "Blazored.LocalStorage": {
             "target": "Package",
             "version": "[4.4.0, )"
+          },
+          "Microsoft.AspNetCore.Components.Authorization": {
+            "target": "Package",
+            "version": "[6.0.24, )"
           },
           "Microsoft.AspNetCore.Components.WebAssembly": {
             "target": "Package",
