@@ -1,7 +1,9 @@
 ﻿using app_Business.Repository.IRepository;
 using app_Models;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
+using Stripe.Checkout;
 
 namespace AppWeb_API.Controllers
 {
@@ -10,11 +12,11 @@ namespace AppWeb_API.Controllers
     public class OrderController : ControllerBase
     {
         private readonly IOrderRepository _orderRepository;
-        //private readonly IEmailSender _emailSender;
+        private readonly IEmailSender _emailSender;
         public OrderController(IOrderRepository orderRepository, IEmailSender emailSender)
         {
             _orderRepository = orderRepository;
-            //_emailSender = emailSender;
+            _emailSender = emailSender;
         }
 
         [HttpGet]
@@ -57,28 +59,28 @@ namespace AppWeb_API.Controllers
             return Ok(result);
         }
 
-        //[HttpPost]
-        //[ActionName("paymentsuccessful")]
-        //public async Task<IActionResult> PaymentSuccessful([FromBody] OrderHeaderDTO orderHeaderDTO)
-        //{
-        //    var service = new SessionService();
-        //    var sessionDetails = service.Get(orderHeaderDTO.SessionId);
-        //    if (sessionDetails.PaymentStatus == "paid")
-        //    {
-        //        var result = await _orderRepository.MarkPaymentSuccessful(orderHeaderDTO.Id);
-        //        await _emailSender.SendEmailAsync(orderHeaderDTO.Email, "Tangy Order Confirmation",
-        //            "New Order has been created :" + orderHeaderDTO.Id);
-        //        if (result == null)
-        //        {
-        //            return BadRequest(new ErrorModelDTO()
-        //            {
-        //                ErrorMessage = "Can not mark payment as successful"
-        //            });
-        //        }
-        //        return Ok(result);
-        //    }
+        [HttpPost]
+        [ActionName("paymentsuccessful")]
+        public async Task<IActionResult> PaymentSuccessful([FromBody] OrderHeaderDTO orderHeaderDTO)
+        {
+            var service = new SessionService();
+            var sessionDetails = service.Get(orderHeaderDTO.SessionId);
+            if (sessionDetails.PaymentStatus == "paid")
+            {
+                var result = await _orderRepository.MarkPaymentSuccessful(orderHeaderDTO.Id);
+                await _emailSender.SendEmailAsync(orderHeaderDTO.Email, "Tangy Order Confirmation",
+                    "New Order has been created :" + orderHeaderDTO.Id);
+                if (result == null)
+                {
+                    return BadRequest(new ErrorModelDTO()
+                    {
+                        ErrorMessage = "Can not mark payment as successful"
+                    });
+                }
+                return Ok(result);
+            }
 
-        //    return BadRequest();
-        //}
+            return BadRequest();
+        }
     }
 }
